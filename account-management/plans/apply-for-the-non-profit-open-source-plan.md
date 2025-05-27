@@ -47,7 +47,7 @@ Your organization should **not**:
 * promote a dogma.
 * promote a religious position as part of its activity.
 * promote discrimination of any kind, on the basis of gender (identity or expression), race, ethnicity, political or religious opinion, sexual orientation, or anything else.
-* be a crypto currency related project&#x20;
+* be a crypto currency related project
 
 ### Criteria for non-profit organizations
 
@@ -70,6 +70,8 @@ Your Git repository **must**:
 * Have a `CODE_OF_CONDUCT.md` file.
 * Make it easy for others to [contribute](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github#finding-good-first-issues).
 
+> **Note:** Projects that offer paid versions, commercial add-ons, or any form of monetization are not eligible for the free community plan, even if the core project is open source.
+
 ### Criteria for education-related groups
 
 * The organization _must not_ represent a school, college, or university as a whole.
@@ -86,7 +88,7 @@ Individual students who want to keep their personal and course notes should use 
    Start by [signing up](https://app.gitbook.com/join) for a GitBook account if you don’t have one yet, or [signing in](https://app.gitbook.com) if you do.
 2. **Choose an organization**\
    Decide which organization you would like the Community plan to be applied to. This could be one that you’ve already created, or you might want to create a new organization.\
-   &#xNAN;_(To create a new organization, click the switch organization toggle near the top of the_ [_sidebar_](https://docs.gitbook.com/getting-started/overview#sidebar)_, then click **create an organization**, and follow the prompts.)_
+   \&#xNAN;_(To create a new organization, click the switch organization toggle near the top of the_ [_sidebar_](https://docs.gitbook.com/getting-started/overview#sidebar)_, then click **create an organization**, and follow the prompts.)_
 3. **Get the organization’s URL**\
    In the [sidebar](https://docs.gitbook.com/getting-started/overview#sidebar), click on the name of the organization you chose in step 2. Copy or make a note of the URL in your browser. It will be in the format `app.gitbook.com/o/[string]/home`, where `[string]` will be a unique string of letters and numbers used to identify that organization.
 4. **Contact us via our messenger on** [**our website**](https://www.gitbook.com/contact)\
